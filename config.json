@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondetch",
+        "uuid": 20825241,
+        "checksum": "ws2oon"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
